@@ -1,23 +1,31 @@
-# :milky_way: SAI
+<h1 align="left">
+  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> sAI
+</h1>
 
-{ __PM who codes__ };
+__PM who codes__
 
 **`Great products aren’t built by chance, they’re trained.`**
 
-Pixels → Patterns → Products. I build AI products that see, learn, and create value in the real world.
-
-Currently building GoalPro ⚽ using computer vision to turn football footage into highlights and stats.
-
-Forever exploring how data becomes design, and intelligence becomes experience.
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/fullstackpm/ai-viz/main/linear-regression/regression_viz.gif" width="300" alt="Regression Visualization">
 </p>
 
-![Regression Visualization](https://github.com/fullstackpm/machine-learning/blob/main/linear-regression/regression_viz.gif?raw=true)
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/saidursikder)
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saidursikder" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@product.intelligence" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="48" alt="YouTube">
+  </a>
+</p>
+
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
@@ -33,6 +41,27 @@ Forever exploring how data becomes design, and intelligence becomes experience.
 ---
 
 ### 🧰 Languages and Tools
+
+JavaScript, HTML, CSS, React, Java, Spring, Go
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JS">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=p5js" width="40" alt="P5">
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React">
+</p>
+
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
