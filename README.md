@@ -1,8 +1,18 @@
 <h1 align="left">
-  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> sAI
+  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> s.AI Product Leader
 </h1>
 
-**`Great products aren’t built by chance, they’re trained.`**
+**`Great products aren’t built by chance, they’re trained.`**<br>
+
+**My mission:** Drive AI enablement in niche sectors to advance product intelligence 🧠
+
+| 📊 Role | 🏢 Company | 🎯 Focus     | ⚙️ Key Impact                                                  |
+|---------|-----------|--------------|---------------------------------------------------------------|
+| Lead PM | Tesco     | Product Data | Delivered Marketplace and scaled inductions from 18k → 90k/hr |
+| Founder | GoalPro   | Sports Tech  | AI generated highlights and stats for every grassroots players|
+
+### Skills
+Product Strategy :white_square_button: Modelling :white_square_button: Entreprenurship
 
 <br>
 <p align="center">
@@ -61,8 +71,6 @@
 </p>
 
 ### Projects 🐾
-- [GoalPro Computer Vision](https://www.goalpro.co.uk/) - used computer vision to convert match footage to individual highlights and stats to enable analytics in grassroots football
-- [Player Similarity Score](https://player-similarity-scores.vercel.app/) - used KNN to group similar style players together to enable smarter transfer decisions
 
-
-<!-- END YOUTUBE-CARDS -->
+- [GoalPro Computer Vision](https://www.goalpro.co.uk/) – Built a CV pipeline that transforms amateur match footage into highlight reels and player stats, empowering grassroots footballers to track performance like pros.  
+- [Player Similarity Score](https://player-similarity-scores.vercel.app/) – Applied KNN to cluster players by style and performance, enabling smarter transfer analysis for scouts.
