@@ -34,31 +34,31 @@ __PM who codes__
 ### 💻 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" width="40" alt="Python">
+  <img src="https://skillicons.dev/icons?i=py" width="50" alt="Python">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="40" alt="Tensorflow">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50" alt="Tensorflow">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java">
+  <img src="https://skillicons.dev/icons?i=java" width="50" alt="Java">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring">
+  <img src="https://skillicons.dev/icons?i=spring" width="50" alt="Spring">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" width="40" alt="Go">
+  <img src="https://skillicons.dev/icons?i=go" width="50" alt="Go">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML">
+  <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="40" alt="CSS">
+  <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JS">
+  <img src="https://skillicons.dev/icons?i=javascript" width="50" alt="JS">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=p5js" width="40" alt="P5">
+  <img src="https://skillicons.dev/icons?i=p5js" width="50" alt="P5">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="NodeJS">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="NodeJS">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="40" alt="React">
+  <img src="https://skillicons.dev/icons?i=react" width="50" alt="React">
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma">
+  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma">
   &nbsp;&nbsp;
 </p>
 
