@@ -2,8 +2,6 @@
   <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> sAI
 </h1>
 
-__PM who codes__
-
 **`Great products aren’t built by chance, they’re trained.`**
 
 <br>
