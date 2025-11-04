@@ -8,7 +8,7 @@
 
 | 📊 Role | 🏢 Company | 🎯 Focus     | ⚙️ Key Impact                                                  |
 |---------|-----------|--------------|---------------------------------------------------------------|
-| Lead PM | Tesco     | Product Data | Delivered Marketplace and scaled inductions to +500K and over £5M GMV |
+| Lead PM | Tesco     | Product Data | Manage data capture, enrichment, and supply of products |
 | Founder | GoalPro   | Sports Tech  | AI generated highlights and stats for every grassroots players|
 
 ### Skills
