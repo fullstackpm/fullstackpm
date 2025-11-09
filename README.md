@@ -4,7 +4,7 @@
 
 **`Great products aren’t built by chance, they’re trained.`**<br>
 
-**My mission:** Drive AI enablement in niche sectors to advance intelligence 🧠
+**My mission:** Bring intelligence into every product 🧠
 
 | 📊 Role | 🏢 Company | 🎯 Focus     | ⚙️ Key Impact                                                  |
 |---------|-----------|--------------|---------------------------------------------------------------|
