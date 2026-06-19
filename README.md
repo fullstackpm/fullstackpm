@@ -8,7 +8,7 @@
 
 | 📊 Role | 🏢 Company | 🎯 Focus     | ⚙️ Key Impact                                                  |
 |---------|-----------|--------------|---------------------------------------------------------------|
-| Lead PM | Tesco     | Product Data | Manage data capture, enrichment, and supply of products |
+| PM      | Metro Bank| Analytics    | Manage data capture, enrichment, and supply of regulatory data|
 | Founder | GoalPro   | Sports Tech  | AI generated highlights and stats for every grassroots players|
 
 ### Skills
