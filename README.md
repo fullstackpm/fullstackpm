@@ -1,5 +1,8 @@
 <h1 align="left">
+  <img width="1000" height="680" alt="image" src="https://github.com/user-attachments/assets/85dd223b-10db-4c31-bfe6-b7dc076fa1a0" />
+
   <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> 5ΛI
+
 </h1>
 
 **`Great products aren’t built by chance, they’re trained.`**<br>
