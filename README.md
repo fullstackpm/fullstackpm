@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> 5AI
+  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> 5ΛI
 </h1>
 
 **`Great products aren’t built by chance, they’re trained.`**<br>
