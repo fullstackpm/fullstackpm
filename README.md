@@ -1,8 +1,8 @@
 <h1 align="left">
-  <img width="1000" height="680" alt="image" src="https://github.com/user-attachments/assets/85dd223b-10db-4c31-bfe6-b7dc076fa1a0" />
-
-  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> 5ΛI
-
+  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> <img width="63" height="33" alt="Group 127" src="https://github.com/user-attachments/assets/a17a7a54-359b-4614-bcb1-5284f1ce15b8" /><svg width="63" height="33" viewBox="0 0 63 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="63" height="33" fill="#020408"/>
+<path d="M21.6 6.68H5.4V13.952L21.6 15.032V26.12L18.72 29H2.52V26.12H18.36V17.552L2.16 16.472V3.8H21.6V6.68ZM39.8936 3.8L46.4456 29H43.1336L37.4096 6.68H33.5216L27.7976 29H24.4856L31.0376 3.8H39.8936ZM48.7997 29.144V26.264L53.2997 26.084V6.716L48.7997 6.536V3.656L54.9197 3.944L61.0397 3.656V6.536L56.5397 6.716V26.084L61.0397 26.264V29.144L54.9197 28.856L48.7997 29.144Z" fill="white"/>
+</svg>
 </h1>
 
 **`Great products aren’t built by chance, they’re trained.`**<br>
