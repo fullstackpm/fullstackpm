@@ -1,10 +1,10 @@
 <h1 align="left">
-  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> sAI Product Leader
+  <img src="https://em-content.zobj.net/source/microsoft/309/milky-way_1f30c.png" width="30" alt=":milky_way:"> 5AI
 </h1>
 
 **`Great products aren’t built by chance, they’re trained.`**<br>
 
-**My mission:** Bring intelligence into every product 🧠
+**My mission:** Developing intelligence in every product 🧠
 
 | 📊 Role | 🏢 Company | 🎯 Focus     | ⚙️ Key Impact                                                  |
 |---------|-----------|--------------|---------------------------------------------------------------|
